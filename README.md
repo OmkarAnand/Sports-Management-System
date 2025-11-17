@@ -26,8 +26,6 @@ Built entirely with **Django** (backend + frontend), the platform simplifies boo
 | **Styling** | Tailwind CSS (CDN) |
 | **Icons** | Font Awesome |
 
-## 🚀 Live Demo
-Click here to view the project:  
 ## 📞 Contact
 **Omkar Anand**
 *Full Stack Devloper*
