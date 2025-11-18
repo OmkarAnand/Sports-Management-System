@@ -246,6 +246,7 @@ The admin panel provides:
 **Kumar Ankesh**  
 *Full Stack Developer (Django + MERN)*  
 📧 kumarankesh1894@gmail.com
+
 **Omkar Anand**
 *Full Stack Devloper*
 Contact:tutu.813104@gmail.com
